@@ -20,3 +20,8 @@ Funcionalidade: Qual é o prato do dia
         | "domingo"         |        "fechado"            |
         | "xpto"            |      "Dia invalido"         |
         | "123aa"           |      "Dia invalido"         |
+
+# Bugs encontrados
+   ### Ao final do cenario foram definidos dois exemplos diferentes.
+           | "xpto"            |      "Dia invalido"         |
+           | "123aa"           |      "Dia invalido"         |
